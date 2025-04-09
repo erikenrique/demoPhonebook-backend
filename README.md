@@ -1,6 +1,7 @@
 # App demo links
-https://demophonebook-backend.onrender.com/
-[/info](https://demophonebook-backend.onrender.com/info)
+demophonebook-backend.onrender.com
+
+[/info](https://demophonebook-backend.onrender.com/info)  
 [/api/persons](https://demophonebook-backend.onrender.com/api/persons)
 
 # About
